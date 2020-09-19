@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="movie_title">movie title</string>
+    <string name="popularity">Popularity</string>
+    <string name="vote_count">Vote Count</string>
+    <string name="_1728_076">1728.076</string>
+    <string name="_1628">1628</string>
+    <string name="langauge">Langauge</string>
+    <string name="english">english</string>
+    <string name="movie_summary">movie summary</string>
+</resources>
